@@ -1,0 +1,1 @@
+# AutoAddDatabases2AvailabilityGroup
